@@ -1,4 +1,4 @@
-# ✨ parlour-starter ✨
+# ►☼ parlour-starter ☼◄
 
 This is a web based application developed for health related based website in india
 
@@ -7,7 +7,7 @@ This is a web based application developed for health related based website in in
 
 **Project Link** - https://nice-sea-044b81200.2.azurestaticapps.net/
 
-**Project demo video**
+**Project demo video**-https://youtu.be/gMpiWwsN6ww
 
 ## Azure technologies used for Project
 
